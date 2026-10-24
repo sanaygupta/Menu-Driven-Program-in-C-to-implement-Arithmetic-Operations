@@ -1,6 +1,6 @@
 # Menu-Driven-Program-in-C-to-implement-Arithmetic-Operations
 
-Assignment 3: Basic Arithmetic Calculator in C
+Basic Arithmetic Calculator in C
 Overview
 
 This assignment focuses on developing a menu-driven calculator in C that performs basic arithmetic operations on two user-provided numbers. The program uses the switch-case control structure to execute the selected operation based on the user's choice.
